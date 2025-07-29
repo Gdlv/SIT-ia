@@ -1,3 +1,5 @@
+*PLease, download the repository and test the sitia_eng.py file*
+
 # SIT-ia: A software-hardware system to improve efficacy of the Sterile Insect Technique for pest management
 
 de la Vega, G. (1)* , Smith, L. (2) *, Soria-Mercier, L. (3), Edwards, W. (4), Triñanes, F. (5), Masague, S.(5), Corley J. (1,3) 
