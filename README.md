@@ -1,4 +1,4 @@
-*PLease, download the repository and test the sitia_eng.py file*
+*Please, download the repository and test the sitia_eng.py file*
 
 # SIT-ia: A software-hardware system to improve efficacy of the Sterile Insect Technique for pest management
 
