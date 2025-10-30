@@ -1,18 +1,17 @@
 
 
-# SIT-ia: A software-hardware system to improve efficacy of the Sterile Insect Technique for pest management
-
+# SIT-ia: A Software-Hardware System to Improve Male Sorting Efficacy for the Sterile Insect Technique
 
 
 
 <img width="940" height="529" alt="imagen" src="https://github.com/user-attachments/assets/5e999350-1df7-4fbe-bcc6-d8594efdd038" />
 
-*Please, download the repository and test the sitia_eng.py file*
 
 
 
 
-# SIT-ia: A software-hardware system to improve efficacy of the Sterile Insect Technique for pest management
+# SIT-ia: A Software-Hardware System to Improve Male Sorting Efficacy for the Sterile Insect Technique
+
 de la Vega, G. (1)* , Smith, L. (2) *, Soria-Mercier, L. (3), Edwards, W. (4), Triñanes, F. (5), Masague, S.(5), Corley J. (1,3) 
 Corresponding Author:  delavega.gerardo@inta.gob.ar
 
