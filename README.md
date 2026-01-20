@@ -1,6 +1,7 @@
 
 
 # SIT-ia: A Software-Hardware System to Improve Male Sorting Efficacy for the Sterile Insect Technique
+write to the author delavega.gerardo@inta.gob.ar to final access
 
 
 
